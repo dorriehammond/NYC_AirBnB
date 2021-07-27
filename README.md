@@ -1,6 +1,6 @@
 # NYC_AirBnB
 
-[Full Project HTML Link](https://htmlpreview.github.io/?https://github.com/dorriehammond/NYC_AirBnB/blob/main/project/AIRBnB_NYC.html)
+Click the following link to view this project's fully completed report: [Full Project HTML Link](https://htmlpreview.github.io/?https://github.com/dorriehammond/NYC_AirBnB/blob/main/project/AIRBnB_NYC.html)
 
 ## Project Description
 
