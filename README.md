@@ -2,5 +2,7 @@
 
 https://htmlpreview.github.io/?https://github.com/dorriehammond/NYC_AirBnB/blob/main/project/AIRBnB_NYC.html
 
+[Project](https://htmlpreview.github.io/?https://github.com/dorriehammond/NYC_AirBnB/blob/main/project/AIRBnB_NYC.html)
+
 Format: ![Map](https://github.com/dorriehammond/NYC_AirBnB/blob/main/project/map.png)
 
